@@ -22,7 +22,7 @@ Résultat obtenu :
 * Quel est le nombre de page qu'on retrouve sur [ce site web](https://quotes.toscrape.com/) ?  
 > scraping-quotes.py
 
-![Résultat scraping challenge 2](sraping_quotes.png)
+![Résultat scraping challenge 2](scraping_quotes.png)
 
 * Quel le nombre de citations qu'on retrouve sur [cet URL](https://quotes.toscrape.com/scroll) ?
 > scraping-quotes-scroll.py
