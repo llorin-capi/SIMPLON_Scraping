@@ -14,7 +14,10 @@ Résultat obtenu :
 ![Résultat Brief 3](scraping_brief3.png)
 
 ## Brief 4 - Challenges réalisés
-* Quel le nombre de livres et le prix moyen qu'on retrouve dans chacune des catégories de [ce site web](https://books.toscrape.com/) (il faudra se log) ?
+* Quel le nombre de livres et le prix moyen qu'on retrouve dans chacune des catégories de [ce site web](https://books.toscrape.com/) (il faudra se log) ? > scraping_livres.py
+
+![Résultat scraping challenge 1]([image](scraping_livres.png)
+
 * Quel est le nombre de page qu'on retrouve sur [ce site web](https://quotes.toscrape.com/) ? 
 * Quel le nombre de citations qu'on retrouve sur [cet URL](https://quotes.toscrape.com/scroll) ?
 * Quel est la première citation sur [ce lien](https://quotes.toscrape.com/js/page/10/) ?
