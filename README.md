@@ -10,6 +10,7 @@ Découvrir le web scraping et apprendre à l'appliquer dans différents cas.
 ## Brief 3 - Initiation au scraping
 Suivi du tutoriel (cf. Documentation annexe).  
 Résultat obtenu :  
+
 ![Résultat Brief 3](scraping_brief3.png)
 
 ## Brief 4 - Challenges réalisés
