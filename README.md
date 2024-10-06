@@ -15,6 +15,7 @@ Résultat obtenu :
 
 ## Brief 4 - Challenges réalisés
 * Quel le nombre de livres et le prix moyen qu'on retrouve dans chacune des catégories de [ce site web](https://books.toscrape.com/) (il faudra se log) ?
+[Scraping challenge 1](docs/scraping-livres.py)
 > scraping-livres.py
 
 ![Résultat scraping challenge 1](scraping_livres.png)
