@@ -4,7 +4,7 @@
 Découvrir le web scraping et apprendre à l'appliquer dans différents cas.
 
 ## Pré-requis
-​* Python 3.12.6 & pip
+* Python 3.12.6 & pip
 * Installation des bibliothèques python : requests, beautifulsoup4
 
 ## Brief 3 - Initiation au scraping
