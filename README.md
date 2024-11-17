@@ -36,12 +36,19 @@ Script réalisé : [scraping-quotes-citations1et5.py](scraping-quotes-citations1
 ![Résultat scraping challenges 4 et 5](scraping_quotes_citations1et5.png)
 
 * Quel est le tag le plus répétitif sur [cette page](https://quotes.toscrape.com/tableful/) ?
-* Quelle est l'unique citation d'Albert Einstein sur la musique à travers [ce formulaire](https://quotes.toscrape.com/search.aspx) ?
-* Combien de temps vous faudra-t-il plus ou moins pour scraper tout le contenu de [ce site web](https://quotes.toscrape.com/random) ?
+Script réalisé : [scraping-tag.py](scraping-tag.py)
 
+* Quelle est l'unique citation d'Albert Einstein sur la musique à travers [ce formulaire](https://quotes.toscrape.com/search.aspx) ?
+Script réalisé : [scraping-einstein.py](scraping-einstein.py)
+
+* Combien de temps vous faudra-t-il plus ou moins pour scraper tout le contenu de [ce site web](https://quotes.toscrape.com/random) ?
+Script réalisé : [scraping-time.py](scraping-time.py)
 
 ## Documentation annexe
 * [Tutoriel - Web scraping avec python](https://realpython.com/beautiful-soup-web-scraper-python/)
 * [Documentation BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Documentation requests](https://requests.readthedocs.io/en/latest/)
 * [CNIL - Fiche RGPD](https://www.cnil.fr/fr/focus-interet-legitime-collecte-par-moissonnage)
+
+## Auteur
+Léa Lorin (@llorin-capi)
